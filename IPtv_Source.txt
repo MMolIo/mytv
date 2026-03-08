@@ -145,7 +145,6 @@ CHC动作电影,http://tv.sohu.blog/d/mg.php?id=644368714
 CHC家庭影院,http://tv.sohu.blog/d/mg.php?id=644368373
 东方卫视,http://tv.sohu.blog/d/mg.php?id=651632648
 江苏卫视,http://tv.sohu.blog/d/mg.php?id=623899368
-广东卫视,http://tv.sohu.blog/d/mg.php?id=608831231
 北京卫视,http://tv.sohu.blog/d/mg.php?id=630287636
 辽宁卫视,http://tv.sohu.blog/d/mg.php?id=630291707
 河北卫视,http://tv.sohu.blog/d/mg.php?id=962042070
